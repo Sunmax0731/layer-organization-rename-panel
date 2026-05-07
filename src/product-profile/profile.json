@@ -1,0 +1,19 @@
+{
+  "name": "layer-organization-rename-panel",
+  "title": "レイヤー整理・命名修復パネル",
+  "domain": "AdobePlugin",
+  "kind": "adobe-plugin",
+  "host": "Photoshop",
+  "field": "Photoshopレイヤー整備",
+  "audience": "PhotoshopでPSD納品、商品画像、UI素材を作る制作者",
+  "workflow": "レイヤー名、グループ、ロック状態、修復案を一覧化し、納品前の命名崩れを直す。",
+  "requiredFields": [
+    "layerName",
+    "groupName",
+    "renameRule",
+    "exportRole"
+  ],
+  "warningField": "lockedLayer",
+  "warningMessage": "ロック済みレイヤーのため修復前に手動確認が必要です。",
+  "qcdsTarget": "A-以上。closed alphaではS-を基準とする。"
+}

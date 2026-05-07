@@ -1,0 +1,20 @@
+{
+  "manifestVersion": 5,
+  "id": "sunmax.layer-organization-rename-panel",
+  "name": "レイヤー整理・命名修復パネル",
+  "version": "0.1.0",
+  "main": "index.html",
+  "host": [
+    {
+      "app": "PHSP",
+      "minVersion": "1.0.0"
+    }
+  ],
+  "entrypoints": [
+    {
+      "type": "panel",
+      "id": "main",
+      "label": "レイヤー整理・命名修復パネル"
+    }
+  ]
+}

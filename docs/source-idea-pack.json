@@ -1,0 +1,35 @@
+{
+  "pickupRank": 50,
+  "domain": "AdobePlugin",
+  "ideaNo": 2,
+  "idea": "レイヤー整理・命名修復パネル",
+  "repository": "layer-organization-rename-panel",
+  "publish": "BOOTH / GitHub Release",
+  "createdIdeaFolder": "D:/AI/AdobePlugin/created_idea_002_layer-organization-rename-panel",
+  "zipFile": "D:/AI/AdobePlugin/created_idea_002_layer-organization-rename-panel/idea_002_layer-organization-rename-panel.zip",
+  "zipDocumentsChecked": [
+    "metadata.json",
+    "README.md",
+    "01_REQUIREMENTS.md",
+    "02_SPECIFICATION.md",
+    "03_DESIGN.md",
+    "04_IMPLEMENTATION_PLAN.md",
+    "05_TEST_PLAN.md",
+    "06_RELEASE_CHECKLIST.md"
+  ],
+  "zipMetadataRepositoryName": "layer-organization-rename-panel",
+  "zipMetadataMatchedRepository": true,
+  "existingRepositoryReadmeAtStart": "存在しない",
+  "domainDocsRead": [
+    "D:/AI/IDEAS/AdobePlugin/Design.md",
+    "D:/AI/IDEAS/AdobePlugin/Architecture.md",
+    "D:/AI/IDEAS/AdobePlugin/AGENTS.md",
+    "D:/AI/IDEAS/AdobePlugin/SKILL.md",
+    "D:/AI/AdobePlugin/AGENTS.md",
+    "D:/AI/AdobePlugin/SKILL.md"
+  ],
+  "hostInference": {
+    "host": "Photoshop",
+    "rationale": "レイヤー整理と命名修復はPSD制作中のPhotoshopレイヤーパネル操作に最も近いため。"
+  }
+}
