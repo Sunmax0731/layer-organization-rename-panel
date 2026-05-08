@@ -1,0 +1,11 @@
+{
+  "product": "layer-organization-rename-panel",
+  "title": "レイヤー整理・命名修復パネル",
+  "domain": "AdobePlugin",
+  "ideaNo": 2,
+  "platformType": "adobe-host-plugin",
+  "expectedPublicTarget": "BOOTH / GitHub Release",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}

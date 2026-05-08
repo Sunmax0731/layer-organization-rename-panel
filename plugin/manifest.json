@@ -1,0 +1,18 @@
+{
+  "id": "com.sunmax0731.layer-organization-rename-panel",
+  "name": "レイヤー整理・命名修復パネル",
+  "version": "0.1.0-alpha.1",
+  "manifestVersion": 5,
+  "host": {
+    "app": "Photoshop",
+    "minVersion": "1.0.0"
+  },
+  "entrypoints": [
+    {
+      "type": "panel",
+      "id": "closed-alpha-panel",
+      "label": "レイヤー整理・命名修復パネル",
+      "mainPath": "panel.html"
+    }
+  ]
+}
